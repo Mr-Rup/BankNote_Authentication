@@ -116,4 +116,8 @@ See the [LICENSE](LICENSE) file for details.
   - Hyperparameter tuning
   - Cross-validation strategies
 
+🧾 Author
+Mr Rup
+GitHub: https://github.com/Mr-Rup
+
 ---
