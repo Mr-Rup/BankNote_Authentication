@@ -38,12 +38,6 @@ The dataset is sourced from the **UCI Machine Learning Repository**.
 | entropy     | Entropy of the wavelet-transformed image                   |
 | class       | Target variable (0 = genuine, 1 = forged)                  |
 
-📍 Dataset path in this repository:  
-data/banknote_auth.csv
-
-markdown
-Copy code
-
 ---
 
 ## 🛠 Tools & Technologies
