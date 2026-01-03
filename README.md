@@ -72,8 +72,7 @@ bank note authentication/
 │   └── banknote_auth.csv
 │
 ├── notebooks/
-│   ├── banknote_authentication.ipynb
-│   └── Source_code.ipynb
+│   └── banknote_authentication.ipynb
 │
 ├── scripts/
 │   └── html.py
